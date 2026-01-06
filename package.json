@@ -1,0 +1,8 @@
+{
+  "name": "timesprime-offers-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:offers": "node scripts/build_offers.mjs"
+  }
+}
